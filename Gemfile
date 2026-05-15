@@ -10,7 +10,7 @@ gem "stimulus-rails"
 gem "jbuilder", require: false
 gem "bootsnap", require: false
 
-gem "bcrypt", "~> 3.1.21"
+gem "bcrypt", "~> 3.1.22"
 
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 
